@@ -1,1 +1,0 @@
-# HKUST BIM LAB
