@@ -1,1 +1,1 @@
-# hkustbimlab.github.io
+# HKUST BIM LAB
