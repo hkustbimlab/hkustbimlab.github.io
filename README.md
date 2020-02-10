@@ -11,7 +11,7 @@ Following is a list of our public resources. (**More resources will be ready soo
 
 ### Computer vision and AI for construction equipment
 * Dataset: Construction equipment poses [[click]](https://hkustconnect-my.sharepoint.com/:f:/g/personal/hluoaf_connect_ust_hk/EmiZELaKKoZMqgHO3k_2a68BFWu_gq9Z9MZWX5u0cQE1nw?e=6xsOLB).
-(Currently, please cite: [1] H. Luo, M. Wang, P.K.-Y. Wong, J.C.P. Cheng, Full Body Pose Estimation of Construction Equipment Using Computer Vision and Deep Learning Techniques, (2018) 1–41.)
+(Please cite: Luo H, Wang M, Wong PKY, Cheng JCP (2020) Full body pose estimation of construction equipment using computer vision and deep learning techniques. Automation in Construction 110:1–41. https://doi.org/10.1016/j.autcon.2019.103016)
 
 ## Licenses
 Resources publised by HKUST BIM LAB are freely available for non-commercial use under [Apache-2.0](link) license. Interested in a commercial license? Please contact us through [email](hkustbim@gmail.com).
