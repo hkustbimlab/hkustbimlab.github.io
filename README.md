@@ -13,5 +13,8 @@ Following is a list of our public resources. (**More resources will be ready soo
 * Dataset: Construction equipment poses [[click]](https://hkustconnect-my.sharepoint.com/:f:/g/personal/hluoaf_connect_ust_hk/EmiZELaKKoZMqgHO3k_2a68BFWu_gq9Z9MZWX5u0cQE1nw?e=6xsOLB).
 (Please cite: Luo H, Wang M, Wong PKY, Cheng JCP (2020) Full body pose estimation of construction equipment using computer vision and deep learning techniques. Automation in Construction 110:1–41. https://doi.org/10.1016/j.autcon.2019.103016)
 
+* Dataset: Construction machine motion capture dataset (time-series pose data) [[click]](https://hkustconnect-my.sharepoint.com/:f:/g/personal/hluoaf_connect_ust_hk/EubIMHcDvFRKrpMOx7nubaIBW28tUbjx9OuY1Y-etIqj9g?e=PRCpTu).
+(Please cite: H. Luo, M. Wang, P.K.-Y. Wong, J. Tang, J.C.P. Cheng, Construction Machine Pose Prediction Considering Historical Motions and Activity Attributes Using Gated Recurrent Unit (GRU), Automation in Construction. 121 (2021) 103444. https://doi.org/10.1016/j.autcon.2020.103444.)
+
 ## Licenses
 Resources publised by HKUST BIM LAB are freely available for non-commercial use under [Apache-2.0](link) license. Interested in a commercial license? Please contact us through [email](hkustbim@gmail.com).
