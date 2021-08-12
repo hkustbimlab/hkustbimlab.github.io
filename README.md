@@ -17,4 +17,4 @@ Following is a list of our public resources. (**More resources will be ready soo
 (Please cite: H. Luo, M. Wang, P.K.-Y. Wong, J. Tang, J.C.P. Cheng, Construction Machine Pose Prediction Considering Historical Motions and Activity Attributes Using Gated Recurrent Unit (GRU), Automation in Construction. 121 (2021) 103444. https://doi.org/10.1016/j.autcon.2020.103444.)
 
 ## Licenses
-Resources publised by HKUST BIM LAB are freely available for non-commercial use under [Apache-2.0](link) license. Interested in a commercial license? Please contact us through [email](hkustbim@gmail.com).
+Resources publised by HKUST BIM LAB are freely available for non-commercial use under [Apache-2.0](link) license. Interested in a commercial license? Please contact us through [email](mailto:hkustbim@gmail.com).
