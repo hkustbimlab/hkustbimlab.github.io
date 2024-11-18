@@ -16,5 +16,12 @@ Following is a list of our public resources. (**More resources will be ready soo
 * Dataset: Construction machine motion capture dataset (time-series pose data) [[click]](https://hkustconnect-my.sharepoint.com/:f:/g/personal/hluoaf_connect_ust_hk/EubIMHcDvFRKrpMOx7nubaIBW28tUbjx9OuY1Y-etIqj9g?e=PRCpTu).
 (Please cite: H. Luo, M. Wang, P.K.-Y. Wong, J. Tang, J.C.P. Cheng, Construction Machine Pose Prediction Considering Historical Motions and Activity Attributes Using Gated Recurrent Unit (GRU), Automation in Construction. 121 (2021) 103444. https://doi.org/10.1016/j.autcon.2020.103444.)
 
+
+### Point cloud Processing and BIM reconstruction
+* Dataset: Point clouds of industrial scenes [[click]](https://1drv.ms/u/s!AowWVUsydD72gYZKV1056JT5DDjoog?e=pbelin).
+(Please cite:
+Chao Yin, Boyu Wang, Vincent JL Gan, Mingzhu Wang, Jack CP Cheng (2021) Automated semantic segmentation of industrial point clouds using ResPointNet++. Automation in Construction. 130 (2021) 103874. https://doi.org/10.1016/j.autcon.2021.103874)
+Boyu Wang, Chao Yin, Han Luo, Jack CP Cheng, Qian Wang, Fully automated generation of parametric BIM for MEP scenes based on terrestrial laser scanning data, Automation in Construction. 125 (2021) 103615. https://doi.org/10.1016/j.autcon.2021.103615)
+
 ## Licenses
 Resources publised by HKUST BIM LAB are freely available for non-commercial use under [Apache-2.0](link) license. Interested in a commercial license? Please contact us through [email](mailto:hkustbim@gmail.com).
