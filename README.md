@@ -17,7 +17,7 @@ Following is a list of our public resources. (**More resources will be ready soo
 (Please cite: H. Luo, M. Wang, P.K.-Y. Wong, J. Tang, J.C.P. Cheng, Construction Machine Pose Prediction Considering Historical Motions and Activity Attributes Using Gated Recurrent Unit (GRU), Automation in Construction. 121 (2021) 103444. https://doi.org/10.1016/j.autcon.2020.103444.)
 
 
-### Point cloud Processing and BIM reconstruction
+### Point cloud processing and BIM reconstruction
 * Dataset: Point clouds of industrial scenes [[click]](https://1drv.ms/u/s!AowWVUsydD72gYZKV1056JT5DDjoog?e=pbelin). Please cite:<br>
 
   Chao Yin, Boyu Wang, Vincent JL Gan, Mingzhu Wang, Jack CP Cheng (2021) Automated semantic segmentation of industrial point clouds using ResPointNet++. Automation in 
